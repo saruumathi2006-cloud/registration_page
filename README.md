@@ -20,3 +20,4 @@ A modern, responsive user registration form featuring real-time client-side vali
 - **HTML5**
 - **CSS3** (Responsive Flexbox, Gradient background, Transitions)
 - **JavaScript (ES6+)**
+

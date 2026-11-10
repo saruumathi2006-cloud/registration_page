@@ -226,3 +226,4 @@ form.addEventListener('submit', (e) => {
 
 // Initial validation state on page load
 checkFormValidity();
+
